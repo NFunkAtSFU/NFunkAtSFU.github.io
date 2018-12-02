@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Learning to Use Rake
 date: 2018-10-27 23:13:45 -0700
-author: Natalie Funk
 categories: ruby rake 
 permalink: blog/learning-to-use-rake.html
 ---
