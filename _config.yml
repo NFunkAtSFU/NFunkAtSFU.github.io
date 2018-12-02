@@ -10,4 +10,4 @@ github_username:  NFunkAtSFU
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minima
