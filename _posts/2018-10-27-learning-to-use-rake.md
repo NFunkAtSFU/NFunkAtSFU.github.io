@@ -1,6 +1,7 @@
 ---
 title: Learning to Use Rake
 date: 2018-10-27 23:13:45 -0700
+layout: post
 categories: ruby rake 
 permalink: blog/learning-to-use-rake.html
 ---
