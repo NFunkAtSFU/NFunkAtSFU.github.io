@@ -1,6 +1,7 @@
 ---
 title:  "Building a Website"
 date:   2018-09-29 18:50:17 -0700
+layout: post
 categories: jekyll update
 permalink: blog/build-a-website.html
 ---
