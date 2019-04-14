@@ -1,3 +1,11 @@
+---
+layout: page
+title: Quotes
+permalink: /quotes/
+---
+
+This is a brief list of some quotes that I am keeping in mind as I progress on my coding journey.
+
 > If you hear a voice within you say "you cannot paint," then by all means paint and that voice will be silenced. - Vincent Van Gogh
 
 > There is only one way to avoid criticism: do nothing, say nothing, and be nothing. - Aristotle
