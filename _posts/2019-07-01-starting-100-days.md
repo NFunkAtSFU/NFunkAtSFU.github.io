@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starting 100 Days
-date: 2019-07-01 20:41:19 -0700
+date: 2019-07-01
 categories:
 permalink: blog/starting-100-days.html
 ---
