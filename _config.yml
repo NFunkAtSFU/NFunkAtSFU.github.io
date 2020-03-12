@@ -34,14 +34,14 @@ plugins:
   - jekyll-feed
   
 # Define some defaults with defaults variable
-defaults:
-  -
-    scope:
-      path: ""  # Which files to apply default to - blank = all. Could put "projects" here
-      type: "post" # Will only apply to post layouts
-    values:  # The values below become the default frontmatter
-      layout: "post"
-      title: "My Title"
+# defaults:
+#   -
+#     scope:
+#       path: ""  # Which files to apply default to - blank = all. Could put "projects" here
+#       type: "post" # Will only apply to post layouts
+#     values:  # The values below become the default frontmatter
+#       layout: "post"
+#       title: "My Title"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
