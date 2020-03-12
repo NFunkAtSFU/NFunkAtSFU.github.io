@@ -2,7 +2,7 @@
 require 'date'
 time = Time.new
 
-# all rakefiles have a default task.
+# All rakefiles have a default task.
 task default: %w[post]
 desc 'create a new draft post'
 task :post do
