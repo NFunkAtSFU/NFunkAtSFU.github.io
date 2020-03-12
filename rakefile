@@ -18,11 +18,8 @@ task :post do
   File.open(file, "w") do |f|
     f << <<-EOS.gsub(/^    /, '')
 ---
-layout: post
 title: #{title}
-date: #{time.strftime("%Y-%m-%d %H:%M:%S")} -0700
 categories:
-permalink: blog/#{title.downcase.gsub(/[^\w]+/, '-')}.html
 ---
 
     EOS
