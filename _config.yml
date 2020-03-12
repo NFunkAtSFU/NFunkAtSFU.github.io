@@ -29,9 +29,10 @@ github_username:  NFunkAtSFU
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.19.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
   
 # Define some defaults with defaults variable
 # defaults:
