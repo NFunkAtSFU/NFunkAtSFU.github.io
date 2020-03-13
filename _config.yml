@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NFunkAtSFU
 github_username:  NFunkAtSFU
+github: [metadata]  # Add this to alleviate authentication warnings
 minimal_mistakes_skin: default
 search: true
 
