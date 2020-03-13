@@ -1,8 +1,5 @@
 ---
 title:  "Building a Website"
-date:   2018-09-29 18:50:17 -0700
-layout: post
 categories: jekyll update
-permalink: blog/build-a-website.html
 ---
 This is my first blog post and is mainly a test to be sure that everything is working as it should. Hello world!

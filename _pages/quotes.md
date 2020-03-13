@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Quotes
 permalink: /quotes/
+tags: quote
 ---
 
 This is a brief list of some quotes that I am keeping in mind as I progress on my coding journey.
@@ -10,7 +10,7 @@ This is a brief list of some quotes that I am keeping in mind as I progress on m
 
 > There is only one way to avoid criticism: do nothing, say nothing, and be nothing. <cite>Aristotle</cite>
 
-> When I let go of what I am, I become what I might be. <cite>Lao Tzu</cite>
+> When I let go of what I am, I become what I might be. <cite><a href="https://www.brainyquote.com/quotes/lao_tzu_379182">Lao Tzu</a></cite>
 
 > Success is not final, failure is not fatal: it is the courage to continue that counts. <cite>Winston Churchill</cite>
 
