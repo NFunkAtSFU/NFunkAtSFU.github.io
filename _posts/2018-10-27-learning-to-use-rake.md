@@ -1,6 +1,10 @@
 ---
 title: Learning to Use Rake
-categories: ruby rake 
+categories: 
+  - Blog
+tags:
+  - ruby
+  - rake
 link: http://arjanvandergaag.nl/blog/creating-new-jekyll-posts.html
 ---
 

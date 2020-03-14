@@ -1,6 +1,10 @@
 ---
 title: Watchface Progress
-categories: c, pkjs
+categories: 
+  - Blog
+tags:
+  - c
+  - pkjs
 ---
 
 I finally finished working through the tutorials at <https://developer.rebble.io/developer.pebble.com/tutorials/watchface-tutorial/part1/index.html>. It was tough to do debugging with these. Sometimes the c files would compile, and sometimes they wouldn't. Mostly this came down to simple typos which caused syntax errors. In some cases, I had to rearrange the order of the functions to make it work. At this point, I have a watchface that shows the day spelled out, the time in 12hr format, the month spelled out and the number of the date, along with a weather reading (temperature and description), and a battery bar underneath. 

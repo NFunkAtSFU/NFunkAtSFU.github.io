@@ -1,6 +1,10 @@
 ---
 title: Candy Colored Command Line
-categories: iterm, zsh
+categories: 
+  - Blog
+tags:
+  - iterm
+  - zsh
 ---
 
 This week I have been testing out a new way of working with the command line. Using [iTerm](https://iterm2.com/index.html) and [Oh My Zsh](https://ohmyz.sh/), along with some other plugins, I now have an interface that is surprisingly fun to work with. My inspiration came from this blog <https://ryanwhocodes.com/blog/zsh-style-powerlevel9k/> and I even checked out the lolcat and colorls links at the bottom of his post. Another post that was helpful was <https://jessicadeen.com/macos-ohmyzsh-tmux-vim-iterm2-powerlevel9k-badass-terminal/>.
