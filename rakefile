@@ -19,7 +19,9 @@ task :post do
     f << <<-EOS.gsub(/^    /, '')
 ---
 title: #{title}
+date: #{time.strftime("%Y-%m-%d %H:%M:%S")} -0700
 categories:
+tags:
 ---
 
     EOS
