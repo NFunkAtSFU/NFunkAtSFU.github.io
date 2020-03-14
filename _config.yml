@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NFunkAtSFU
 github_username:  NFunkAtSFU
+github: [metadata]  # Add this to alleviate authentication warnings
 minimal_mistakes_skin: default
 search: true
 
@@ -79,34 +80,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Natalie Funk"
+  avatar : "/assets/images/myAvatar.png"
+  bio    : "Learning and practicing web development."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://nfunkatsfu.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/NFunkAtSFU"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/NFunkAtSFU"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/NFunkAtSFU"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/NFunkAtSFU"
+      # - label: "Instagram"
+      #   icon: "fab fa-fw fa-instagram"
+      #   url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -134,3 +135,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
